@@ -13,8 +13,8 @@ import constants
 
 # This function returns the minimum value in the array
 def find_min_value(ran_list_integers):
-    # Initialize the variable to -1
-    min_value = -1
+    # Initialize the variable to 101
+    min_value = 101
 
     # Iterate through list to find min value
     for index in ran_list_integers:
